@@ -7,7 +7,6 @@
 This Study Planner is a simple web application built using Streamlit, designed to help you organize your study schedule effectively. It provides features such as a calendar for keeping track of events, a to-do list for managing tasks, a class schedule for organizing your classes, and a notes section for jotting down important information.
 
 ## Features
-
 - **Calendar**: Add and manage events on specific dates.
 - **To-Do List**: Keep track of your tasks and mark them as completed.
 - **Class Schedule**: Plan your classes by adding details such as day, start time, end time, and class name.
