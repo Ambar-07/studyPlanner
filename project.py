@@ -6,7 +6,6 @@ from datetime import datetime
 events = {}
 tasks = []
 
-
 def save_to_dataframe(tasks):
     df = pd.DataFrame({"Tasks": tasks})
     df.to_csv("tasks.csv", index=False)
